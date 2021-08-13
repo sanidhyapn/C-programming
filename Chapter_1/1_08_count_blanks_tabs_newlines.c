@@ -1,9 +1,5 @@
 #include <stdio.h>
 
-#define LOWER 0   // lower_limit
-#define UPPER 300 // upper_limit
-#define STEP 20   // step size
-
 int main(){
     /* count blanks, tabs and newlines */
     long blanks=0;
@@ -42,3 +38,4 @@ OUTPUT ----------------------
 Blanks: 2
 tabs: 1
 newlines: 1
+*/
