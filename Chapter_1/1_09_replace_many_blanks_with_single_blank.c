@@ -7,15 +7,10 @@ int main(void)
   int last_c='a'; // some random not_blank value
 
   while ((c=getchar()) != EOF){
-    if (c==' ' || c=='\t'){
-        ;
-    }
-    else if(c!=' ' || c!='\t'){
-
+    if (c!=' ' && c!='\t'){
         if (last_c==' ' || last_c=='\t'){
             putchar(' ');
         }
-
         putchar(c);
     }
 
