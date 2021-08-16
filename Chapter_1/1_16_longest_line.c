@@ -1,3 +1,4 @@
+/* discussion https://clc-wiki.net/wiki/K%26R2_solutions:Chapter_1:Exercise_16 */
 #include <stdio.h>
 
 #define MAXLINE 20 /* max input line size */
