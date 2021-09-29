@@ -3,7 +3,9 @@ Learn C-programming language by reading through the book "The C Programming Lang
 
 > Refer [Solutions](https://clc-wiki.net/wiki/K%26R2_solutions) [Complete set] 
 
-C Programming [Best Practises](https://data-flair.training/blogs/c-programming-best-practices/) [Link]
+C Programming [Best Practises](https://data-flair.training/blogs/c-programming-best-practices/) [Article]
+
+Concept of [Pointers](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_) [YouTube Playlist]
 
 
 &nbsp;
