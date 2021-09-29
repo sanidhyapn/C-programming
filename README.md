@@ -1,6 +1,10 @@
 # C-programming
 Learn C-programming language by reading through the book "The C Programming Language" (2nd edition) by Brian W. Kernighan and Dennis M. Ritchie.
 
+> Refer [Solutions](https://clc-wiki.net/wiki/K%26R2_solutions) [Complete set] 
+
+
+&nbsp;
 &nbsp;
 
 Point of learning C [[article](https://www.cio.com/article/3169540/what-is-the-point-of-learning-c.html)]
