@@ -7,6 +7,7 @@ C Programming [Best Practises](https://data-flair.training/blogs/c-programming-b
 
 Concept of [Pointers](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_) [YouTube Playlist]
 
+Practise [Quiz](https://www.cprogramming.com/quiz/?inl=nv) [webpage]
 
 &nbsp;
 &nbsp;
